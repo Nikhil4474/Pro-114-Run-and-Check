@@ -4,3 +4,10 @@ def func(fname):
 func("Email")
 func("tobias")
 func("Linus")
+
+'''
+Output will be 
+Email refsnes
+tobias refsnes
+Linus refsnes
+'''
